@@ -78,8 +78,16 @@ __Welche Eigenschaften lassen sich aus diesem Dünnschliff ableiten?__
 @beforeAndAfter(https://mediathek.tu-freiberg.de/eas/partitions-inline/2/0/80000/80790/feeb4ee9cc5e44f2731e2a764eae56a9cf599e8f/image/png,https://mediathek.tu-freiberg.de/eas/partitions-inline/2/0/81000/81387/2b9379093c840e6a716411ea85ac5d6ee5459188/image/png)
 
 ## Anmerkung
+<!--
+persistent: true
+-->
 
 > Die Bilder können auch vorkonfiguriert lokal gespeichert werden. Die vorgestellten Mechanismen sind dann identisch.
 
 ![](./images/Q003130_002-5x-xpol.png)
 ![](./images/Q003233a_002-5x-xpol.png)
+
+
+> oder es können auch direkt 3D-Modelle eingebettet werden:
+
+??[3D-Modell](https://sketchfab.com/3d-models/familienschacht-freiberg-germany-7c7d30506c554385a4a4321366e2e601)
