@@ -78,9 +78,6 @@ __Welche Eigenschaften lassen sich aus diesem Dünnschliff ableiten?__
 @beforeAndAfter(https://mediathek.tu-freiberg.de/eas/partitions-inline/2/0/80000/80790/feeb4ee9cc5e44f2731e2a764eae56a9cf599e8f/image/png,https://mediathek.tu-freiberg.de/eas/partitions-inline/2/0/81000/81387/2b9379093c840e6a716411ea85ac5d6ee5459188/image/png)
 
 ## Anmerkung
-<!--
-persistent: true
--->
 
 > Die Bilder können auch vorkonfiguriert lokal gespeichert werden. Die vorgestellten Mechanismen sind dann identisch.
 
@@ -88,6 +85,22 @@ persistent: true
 ![](./images/Q003233a_002-5x-xpol.png)
 
 
+### 3D-Modelle
+<!--
+persistent: true
+-->
+
 > oder es können auch direkt 3D-Modelle eingebettet werden:
 
 ??[3D-Modell](https://sketchfab.com/3d-models/familienschacht-freiberg-germany-7c7d30506c554385a4a4321366e2e601)
+
+### 3D-Modelle als Gallerie
+<!--
+persistent: true
+-->
+
+??[](https://sketchfab.com/3d-models/mineral-fluorite-5ed87d4487be495aac0a86632eb3880c)
+??[](https://sketchfab.com/3d-models/mineral-aragonite-2f1c3e7d07374593bd5cced5f83efc2d)
+??[](https://sketchfab.com/3d-models/calcite-mineral-specimen-with-pyrite-inclusions-ae4af18c85de4e7d851e281b89eb1391)
+??[](https://sketchfab.com/3d-models/mineral-galena-pbs-627cdc91f20248e7860e9e5363b91147)
+??[](https://sketchfab.com/3d-models/mineral-halite-f4ad6bcfbf7c4f88829c68273197175c)
