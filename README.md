@@ -22,6 +22,8 @@ comment:
 
 Dieses Beispiel illustriert die Verwendung von Darstellungen der [TUBAF Mediathek](https://mediathek.tu-freiberg.de) innerhalb von LiaScript-Lehrmaterialien.
 
+> Die Webseite der Mediathek ist hier interaktiv eingefügt. Damit ließe sich zum Beispiel eine User-Story aufbauen.
+
 ??[](https://mediathek.tu-freiberg.de/#/detail/77c364e7-be1c-45bd-b348-fda8a467fb5a)
 
 ## Einbettung einzelner Bilder anhand URL
